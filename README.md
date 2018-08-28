@@ -5,7 +5,9 @@
 
 # 使用方法
 1. 下载或clone
-下载地址：https://github.com/tengzhang/tengzhang.github.com/archive/master.zip
-下载完然后解压。
-2. 打开chrome 设置-更多工具-扩展程序
-在扩展程序设置页面，打开开发者模式，点击加载已解压的扩展程序，选择刚才解压的文件夹
+下载地址：https://github.com/tengzhang/tengzhang.github.com/archive/master.zip  
+下载完然后解压。  
+2. 打开chrome 设置-更多工具-扩展程序  
+在扩展程序设置页面，打开开发者模式，点击加载已解压的扩展程序，选择刚才解压的文件夹  
+![image](https://github.com/tengzhang/chrome-extension-qrcode/blob/master/doc/screenshot-1.png)
+![image](https://github.com/tengzhang/chrome-extension-qrcode/blob/master/doc/screenshot-2.png)
